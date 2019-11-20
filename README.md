@@ -4,4 +4,4 @@ fistname:
 lastname:
 Age:
 Growth:
-
+Нужно больше золота:!
