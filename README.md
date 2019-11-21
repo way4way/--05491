@@ -1,7 +1,7 @@
 # --05491
 Falls apart
-fistname:
-lastname:
-Age:
-Growth:
+fistname:Юрий
+lastname:Глазков
+Age:18
+Growth:188
 
