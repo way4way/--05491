@@ -1,7 +1,7 @@
 # --05491
 Falls apart
-fistname:
-lastname:
-Age:
-Growth:
+fistname:Akhmadeev
+lastname:Renat
+Age:17
+Growth:172
 
