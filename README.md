@@ -1,7 +1,7 @@
 # --05491
 Falls apart
-fistname:
-lastname:
-Age:
-Growth:
+fistname: ДАБА
+lastname: Батуев
+Age: 19
+Growth: 16.06.2000
 
