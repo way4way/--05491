@@ -1,7 +1,7 @@
 # --05491
 Falls apart
-fistname:
-lastname:
-Age:
-Growth:
+fistname:Aldar
+lastname:Garmahapov
+Age:17
+Growth:167
 
